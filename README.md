@@ -1,6 +1,6 @@
-# Muhammad Hafizh Hanifuddin
+# 👋 Hi there! Welcome to my GitHub profile! My name is Muhammad Hafizh Hanifuddin
 
-👋 Hi there! Welcome to my GitHub profile!
+
 
 I am currently a student at Quadrant Boarding School, deeply passionate about programming, and aspiring to become a Full Stack Developer. I have already mastered HTML, CSS, JavaScript, and PHP, along with frameworks like Vue.js and Tailwind CSS. Additionally, I am proficient in managing databases using MySQL and Firebase. At present, I am delving into backend development with Node.js, Express.js, Prisma ORM, and PostgreSQL.
 
