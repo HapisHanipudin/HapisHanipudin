@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Hafizh Hanifuddin 👋
 
 <p align="center">
-  <img src="https://github.com/muhammadhafizh/muhammadhafizh/blob/main/banner.png" alt="Banner">
+  <img src="https://github.com/hapishanipudin/hapishanipudin/blob/main/banner.png" alt="Banner">
 </p>
 
 I'm a student at Quadrant Boarding School and a passionate programmer. I'm interested in becoming a full stack developer. I have skills in HTML, CSS, JavaScript, PHP, Vue, Tailwind, MySQL, and Firebase. I'm currently learning Node.js Express, Prisma ORM, and PostgreSQL.
