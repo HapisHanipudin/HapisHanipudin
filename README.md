@@ -9,7 +9,7 @@ I am currently a student at Quadrant Boarding School, deeply passionate about pr
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
 - **Styling**: Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Databases**: [Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+- **Databases**: ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 - **ORM**: Prisma
 
 ## 📈 My GitHub Stats
