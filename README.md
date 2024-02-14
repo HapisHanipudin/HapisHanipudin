@@ -1,19 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Muhammad Hafizh Hanifuddin 👋
 
+<p align="center">
+  <img src="https://github.com/muhammadhafizh/muhammadhafizh/blob/main/banner.png" alt="Banner">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapishanipudin&layout=compact)
+I'm a student at Quadrant Boarding School and a passionate programmer. I'm interested in becoming a full stack developer. I have skills in HTML, CSS, JavaScript, PHP, Vue, Tailwind, MySQL, and Firebase. I'm currently learning Node.js Express, Prisma ORM, and PostgreSQL.
 
-<!--
-**HapisHanipudin/HapisHanipudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
 
-Here are some ideas to get you started:
+Here are some of the projects that I have worked on or I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal Website - A website that showcases my portfolio and blog.
+- Todo App - A simple todo app built with Vue and Firebase.
+- Chat App - A real-time chat app built with Node.js, Socket.io, and MongoDB.
+- E-commerce App - An e-commerce app built with Next.js, Tailwind, and Stripe.
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhafizh&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhafizh&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+## 📫 How to reach me
+
+You can find me on these platforms:
+
+- Twitter
+- LinkedIn
+- Email
