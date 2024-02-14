@@ -18,7 +18,7 @@ Here are some of the projects that I have worked on or I'm working on:
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hapishanipudin&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hapishanipudin&show_icons=false&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapishanipudin&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
