@@ -19,7 +19,7 @@ I am currently a student at Quadrant Boarding School, deeply passionate about pr
 
 ## 📈 My GitHub Stats
 
-<p align="center">
+<p align="center" style="">
   <img src="https://github-readme-stats.vercel.app/api?username=hapishanipudin&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&icon_color=E4E2E2&border_radius=7.5" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapishanipudin&layout=compact&theme=dark&show_icons=true&border_radius=7.5" alt="Top Languages">
 </p>
@@ -28,8 +28,7 @@ I am currently a student at Quadrant Boarding School, deeply passionate about pr
 
 Here are some of the projects I've been working on:
 
-- [Project 1](link_to_project_1): Description of project 1.
-- [Project 2](link_to_project_2): Description of project 2.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hapishanipudin&repo=Top-Up-Store)](https://github.com/HapisHanipudin/Top-Up-Store) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azzamhaer&repo=artqtion-2.0)](https://github.com/azzamhaer/artqtion-2.0)
 
 Feel free to explore my repositories to see more of my work!
 
