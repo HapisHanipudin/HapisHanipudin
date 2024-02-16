@@ -20,8 +20,8 @@ I am currently a student at Quadrant Boarding School, deeply passionate about pr
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hapishanipudin&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&icon_color=E4E2E2" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapishanipudin&layout=compact&theme=dark&show_icons=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=hapishanipudin&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&icon_color=E4E2E2&border_radius=7.5" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapishanipudin&layout=compact&theme=dark&show_icons=true&border_radius=7." alt="Top Languages">
 </p>
 
 ## 🚀 Projects
