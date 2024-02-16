@@ -38,7 +38,7 @@ Feel free to explore my repositories to see more of my work!
 If you'd like to collaborate on a project or just want to say hi, feel free to reach out to me:
 
 <a href="https://www.instagram.com/hapishanipudin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/hapis-hanipudin-074626290/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/HapisHanipudin/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.upwork.com/freelancers/~0115054af27997419a"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 Looking forward to connecting with you!
