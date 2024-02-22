@@ -28,7 +28,7 @@ I am currently a student at Quadrant Boarding School, deeply passionate about pr
 
 Here are some of the projects I've been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hapishanipudin&repo=Top-Up-Store&theme=dark&icon_color=E4E2E2&border_radius=7.5)](https://github.com/HapisHanipudin/Top-Up-Store) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azzamhaer&repo=artqtion-2.0&theme=dark&icon_color=E4E2E2&border_radius=7.5)](https://github.com/azzamhaer/artqtion-2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hapishanipudin&repo=Top-Up-Store&theme=dark&icon_color=E4E2E2&border_radius=7.5)](https://github.com/HapisHanipudin/Top-Up-Store) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hapishanipudin&repo=artqtion-3.0&theme=dark&icon_color=E4E2E2&border_radius=7.5)](https://github.com/azzamhaer/artqtion-2.0)
 
 Feel free to explore my repositories to see more of my work!
 
