@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HapisHanipudin
+- 👀 I’m interested in Web App development
+- 🌱 I’m currently learning Nuxt, and Prisma
+- 💞️ I’m looking to collaborate on Web App Project
+- 📫 How to reach me: hapis.hanipuddin@gmail.com
