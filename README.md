@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js        116 hrs 1 min   ████████████▒░░░░░░░░░░░░   48.87 %
-JavaScript    59 hrs 24 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-TypeScript    25 hrs 2 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Prisma        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Bash          6 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Vue.js        116 hrs 45 mins ████████████▒░░░░░░░░░░░░   48.87 %
+JavaScript    59 hrs 24 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+TypeScript    25 hrs 35 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Prisma        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Bash          7 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
