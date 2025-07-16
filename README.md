@@ -9,5 +9,4 @@ Bash          7 hrs 6 mins    ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/waka_3335228a-bd5a-4238-8f6e-105124defa96.svg)](https://wakatime.com/@HapisHanipudin)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HapisHanipudin&layout=compact&hide_title=true)
