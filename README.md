@@ -9,4 +9,3 @@ Bash          7 hrs 6 mins    ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HapisHanipudin&layout=compact&hide_title=true)
