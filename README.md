@@ -42,10 +42,15 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HapisHanipudin&theme=tokyonight" alt="Hapis's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HapisHanipudin&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
+<!--START_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HapisHanipudin&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</p>
+```text
+Vue.js        132 hrs 14 mins ███████████▒░░░░░░░░░░░░░   45.98 %
+JavaScript    80 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   27.88 %
+TypeScript    30 hrs 55 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Prisma        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Bash          8 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+```
+
+<!--END_SECTION:waka-->
+
