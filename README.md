@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=00DC82&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Muhammad+Hafizh+Hanifuddin;Fullstack+Developer+%7C+Tech+Lead+%7C+Cloud+Enthusiast;Code.+Lead.+Deploy+to+the+Cloud.)](https://git.io/typing-svg)
-
+<h1 align="center">Hi 👋, I'm Hapis</h1>
 <p align="center">
 I'm an Informatics student at UPN Veteran Jakarta, passionate about building robust, scalable web applications from concept to deployment. My journey in tech is defined by a hands-on approach and a drive to lead, turning ambitious ideas into reality.
 </p>
