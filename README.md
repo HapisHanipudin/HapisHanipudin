@@ -24,14 +24,14 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 ---
 
 ### 🚀 Leadership & Team Projects
-* [cite_start]**Web Development Lead @ ArtQtion 3.0:** Led the end-to-end development of a digital platform for a major annual educational event, using Vue.js, Pinia, and Tailwind CSS. [cite: 15, 16, 17]
-* [cite_start]**Head of R&D @ OSQBS:** Directed the tech division of a student organization, initiating and supervising multiple development projects. [cite: 37, 38, 39]
-* [cite_start]**Official Developer Team Member:** Contributed to building and maintaining internal web systems using Nuxt.js and Firebase within an agile team. [cite: 41, 42, 44]
+* **Web Development Lead @ ArtQtion 3.0:** Memimpin pengembangan platform digital untuk sebuah acara edukasi tahunan, menggunakan Vue.js, Pinia, dan Tailwind CSS.
+* **Head of R&D @ OSQBS:** Mengarahkan divisi teknologi di sebuah organisasi siswa, menginisiasi dan mengawasi beberapa proyek pengembangan.
+* **Official Developer Team Member:** Berkontribusi dalam membangun dan memelihara sistem web internal menggunakan Nuxt.js dan Firebase dalam sebuah tim yang tangkas.
 
 ### 🛠️ Freelance & Personal Projects
-* [cite_start]**Freelance Web Developer @ SIMQ:** Developed a school profile website from the ground up using Nuxt.js and a headless CMS (Prismic.io). [cite: 10, 11]
-* **Santriboard SaaS (Personal):** Designing and building a leaderboard SaaS for students, architected with Nuxt, Express, and PostgreSQL.
-* [cite_start]**Portfolio Website (Personal):** My personal corner of the web, built with Nuxt.js and hosted on Firebase. [cite: 3]
+* **Freelance Web Developer @ SIMQ:** Mengembangkan situs web profil sekolah dari awal menggunakan Nuxt.js dan headless CMS (Prismic.io).
+* **Santriboard SaaS (Personal):** Merancang dan membangun sebuah *leaderboard SaaS* untuk siswa, yang dirancang dengan Nuxt, Express, dan PostgreSQL.
+* **Portfolio Website (Personal):** Ruang pribadi saya di web, dibangun dengan Nuxt.js dan di-hosting di Firebase.
 
 ---
 
