@@ -23,23 +23,11 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 
 ---
 
-### 🚀 Leadership & Team Projects
-* **Web Development Lead @ ArtQtion 3.0:** Memimpin pengembangan platform digital untuk sebuah acara edukasi tahunan, menggunakan Vue.js, Pinia, dan Tailwind CSS.
-* **Head of R&D @ OSQBS:** Mengarahkan divisi teknologi di sebuah organisasi siswa, menginisiasi dan mengawasi beberapa proyek pengembangan.
-* **Official Developer Team Member:** Berkontribusi dalam membangun dan memelihara sistem web internal menggunakan Nuxt.js dan Firebase dalam sebuah tim yang tangkas.
-
-### 🛠️ Freelance & Personal Projects
-* **Freelance Web Developer @ SIMQ:** Mengembangkan situs web profil sekolah dari awal menggunakan Nuxt.js dan headless CMS (Prismic.io).
-* **Santriboard SaaS (Personal):** Merancang dan membangun sebuah *leaderboard SaaS* untuk siswa, yang dirancang dengan Nuxt, Express, dan PostgreSQL.
-* **Portfolio Website (Personal):** Ruang pribadi saya di web, dibangun dengan Nuxt.js dan di-hosting di Firebase.
-
----
-
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HapisHanipudin&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Hapis's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HapisHanipudin&theme=tokyonight" alt="Hapis's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HapisHanipudin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Hapis's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HapisHanipudin&theme=tokyonight&hide_border=true" alt="Hapis's GitHub Streak" />
 </p>
 
 <!--START_SECTION:waka-->
