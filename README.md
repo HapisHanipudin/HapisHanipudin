@@ -5,7 +5,7 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 
 <p align="center">
   <a href="https://hapishanipudin.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.instagram.com/hapishanipudin/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/hapishanipudin/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
   <a href="https://linkedin.com/in/hapishanipudin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hapis.hanipuddin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
