@@ -18,7 +18,7 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,firebase" />
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,figma,postman" />
 </p>
 
 ---
