@@ -33,11 +33,11 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js        136 hrs 32 mins ███████████▒░░░░░░░░░░░░░   45.54 %
-JavaScript    81 hrs 27 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-TypeScript    34 hrs 46 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Prisma        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Bash          8 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Vue.js        136 hrs 32 mins ███████████▒░░░░░░░░░░░░░   45.43 %
+JavaScript    81 hrs 27 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
+TypeScript    34 hrs 46 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Prisma        10 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Bash          8 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
