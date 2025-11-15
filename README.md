@@ -14,9 +14,9 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 
 ### 💻 Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,nodejs,express,go" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,nodejs,express,hapi" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,firebase" />
   <br>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,figma,postman" />
 </p>
