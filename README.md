@@ -26,7 +26,7 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HapisHanipudin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Hapis's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HapisHanipudin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Hapis's GitHub Stats" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=HapisHanipudin&theme=tokyonight&hide_border=true" alt="Hapis's GitHub Streak" />
 </p>
 
