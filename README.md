@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hapis</h1>
 <p align="center">
-I'm an Informatics student at UPN Veteran Jakarta, passionate about building robust, scalable web applications from concept to deployment. My journey in tech is defined by a hands-on approach and a drive to lead, turning ambitious ideas into reality.
+  <strong>Full-Stack Developer | Aspiring Cloud Architect | Tech Leader</strong><br>
+  Informatics student at UPN Veteran Jakarta. I build robust, scalable, and cloud-native web applications. My journey is defined by a hands-on approach to solving real-world problems and a strong drive to lead ambitious ideas from concept to deployment.
 </p>
 
 <p align="center">
@@ -12,13 +13,16 @@ I'm an Informatics student at UPN Veteran Jakarta, passionate about building rob
 
 ---
 
-### 💻 Core Tech Stack
+### 🛠️ Core Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,nodejs,express" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,firebase" />
   <br>
   <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,vercel,figma,postman" />
+</p>
+<p align="center">
+  <em>Familiar with: Hono, Drizzle ORM, Figma, Postman</em>
 </p>
 
 ---
