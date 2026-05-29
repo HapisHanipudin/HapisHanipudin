@@ -15,7 +15,7 @@
 
 ### 🛠️ Core Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,ts,nodejs,bun,express" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,firebase" />
   <br>
