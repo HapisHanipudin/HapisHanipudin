@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://hapishanipudin.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://docs.google.com/document/d/1W6N9WvLNznw-cmVy0q7TaQqmFkTpGH8z1TgIdQCfCLo/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume/CV"/></a>
   <a href="https://www.instagram.com/hapishanipudin/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  /></a>
   <a href="https://linkedin.com/in/hapishanipudin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hapis.hanipuddin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -22,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,vercel,figma,postman" />
 </p>
 <p align="center">
-  <em>Familiar with: Hono, Drizzle ORM, Figma, Postman</em>
+  <em>Familiar with: Hono, Drizzle ORM | Frontend & Full-Stack Development with JS/TS</em>
 </p>
 
 ---
