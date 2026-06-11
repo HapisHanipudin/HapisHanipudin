@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,vercel,figma,postman" />
 </p>
 <p align="center">
-  <em>Familiar with: Hono, Drizzle ORM | Frontend & Full-Stack Development with JS/TS</em>
+  <em>Familiar with: Hono, Drizzle ORM | Full-Stack Development with JS/TS</em>
 </p>
 
 ---
